@@ -8,6 +8,7 @@
 import ugame
 import stage
 
+
 def game_scene():
 
     print("== PYDASH ==")
@@ -15,6 +16,7 @@ def game_scene():
 
     while True:
         pass
+
 
 if __name__ == "__main__":
     game_scene()
