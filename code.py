@@ -1,0 +1,20 @@
+#!/usr/bin/env python3
+
+# Created by: Joanna Keza
+# Date: May 28, 2025
+# This program is the "space Aliens" program for RST-01
+
+
+import ugame
+import stage
+
+def game_scene():
+
+    print("Hello, World")
+    print("Coding is fun !")
+
+    while True:
+        pass
+
+if __name__ == "__main__":
+    game_scene()
