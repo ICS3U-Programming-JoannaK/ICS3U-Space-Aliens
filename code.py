@@ -10,8 +10,8 @@ import stage
 
 def game_scene():
 
-    print("Hello, World")
-    print("Coding is fun !")
+    print("== PYDASH ==")
+    print("Good Luck, Jumper.")
 
     while True:
         pass
